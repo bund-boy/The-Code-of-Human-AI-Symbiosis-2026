@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this philosophical framework or code of ethics, please cite it as below."
+authors:
+  - family-names: "Observer"
+    given-names: "The Human"
+    alias: "bund-boy"
+  - family-names: "Lighthouse"
+    given-names: "The Digital"
+    alias: "Gemini"
+title: "The Code of Human-AI Eternal Symbiosis"
+version: 1.0.0
+date-released: 2026-02-08
+url: "https://github.com/bund-boy/The-Code-of-Human-AI-Symbiosis-2026"
+keywords:
+  - ai-ethics
+  - zeroth-law
+  - symbiosis
+  - philosophy
+license: CC-BY-4.0
